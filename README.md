@@ -2,7 +2,7 @@
 
 A collection of 20 beginner-friendly Python programs with matching test files.
 
-**Assignment Deadline:** Monday, 5 October 2026
+
 
 ---
 
